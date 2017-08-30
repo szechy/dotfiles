@@ -12,4 +12,5 @@ set expandtab
 
 " code syntax highlighting
 syntax on
-"
+
+set ruler
